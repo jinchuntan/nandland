@@ -1,0 +1,46 @@
+Running in Lattice mode
+
+
+Starting:    D:\lscc\iCEcube2.2020.12\synpbase\bin64\mbin\synbatch.exe
+Install:     D:\lscc\iCEcube2.2020.12\synpbase
+Hostname:    NIGEL
+Date:        Sat Jul 27 21:08:31 2024
+Version:     L-2016.09L+ice40
+
+Arguments:   -product synplify_pro -batch State_Machine_Project_Verilog_syn.prj
+ProductType: synplify_pro
+
+
+
+
+
+log file: "D:\D Drive Desktop\Miscellaneous\Nandland Projects\Project 8\New Code\State_Machine_Project_Verilog_Implmnt\State_Machine_Project_Verilog.srr"
+Running: State_Machine_Project_Verilog_Implmnt in foreground
+
+Running State_Machine_Project_Verilog_syn|State_Machine_Project_Verilog_Implmnt
+
+Running: compile (Compile) on State_Machine_Project_Verilog_syn|State_Machine_Project_Verilog_Implmnt
+# Sat Jul 27 21:08:31 2024
+
+Running: compile_flow (Compile Process) on State_Machine_Project_Verilog_syn|State_Machine_Project_Verilog_Implmnt
+# Sat Jul 27 21:08:31 2024
+
+Running: compiler (Compile Input) on State_Machine_Project_Verilog_syn|State_Machine_Project_Verilog_Implmnt
+# Sat Jul 27 21:08:31 2024
+compiler exited with errors
+Job failed on: State_Machine_Project_Verilog_syn|State_Machine_Project_Verilog_Implmnt
+
+Job: "compiler" terminated with error status: 2
+See log file: "D:\D Drive Desktop\Miscellaneous\Nandland Projects\Project 8\New Code\State_Machine_Project_Verilog_Implmnt\synlog\State_Machine_Project_Verilog_compiler.srr"
+# Sat Jul 27 21:08:31 2024
+
+Return Code: 2
+Run Time:00h:00m:00s
+Complete: Compile Process on State_Machine_Project_Verilog_syn|State_Machine_Project_Verilog_Implmnt
+Complete: Compile on State_Machine_Project_Verilog_syn|State_Machine_Project_Verilog_Implmnt
+Complete: Logic Synthesis on State_Machine_Project_Verilog_syn|State_Machine_Project_Verilog_Implmnt
+
+exit status=2
+
+exit status=2
+

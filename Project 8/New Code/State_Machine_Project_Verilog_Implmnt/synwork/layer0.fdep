@@ -1,0 +1,27 @@
+#OPTIONS:"|-layerid|0|-orig_srs|D:\\D Drive Desktop\\Miscellaneous\\Nandland Projects\\Project 8\\New Code\\State_Machine_Project_Verilog_Implmnt\\synwork\\State_Machine_Project_Verilog_comp.srs|-prodtype|synplify_pro|-primux|-fixsmult|-infer_seqShift|-ice|-sdff_counter|-nram|-divnmod|-nostructver|-I|D:\\D Drive Desktop\\Miscellaneous\\Nandland Projects\\Project 8\\New Code\\|-I|D:\\lscc\\iCEcube2.2020.12\\synpbase\\lib|-v2001|-devicelib|D:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\generic\\sb_ice40.v|-encrypt|-pro|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-lib|work|-lib|work|-lib|work"
+#CUR:"D:\\lscc\\iCEcube2.2020.12\\synpbase\\bin64\\c_ver.exe":1721190407
+#CUR:"D:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\generic\\sb_ice40.v":1721190408
+#CUR:"D:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\hypermods.v":1721190409
+#CUR:"D:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\umr_capim.v":1721190409
+#CUR:"D:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\scemi_objects.v":1721190409
+#CUR:"D:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\scemi_pipes.svh":1721190409
+#CUR:"D:\\D Drive Desktop\\Miscellaneous\\Nandland Projects\\Project 8\\New Code\\State_Machine_Project_Top.v":1722085651
+#CUR:"D:\\D Drive Desktop\\Miscellaneous\\Nandland Projects\\Project 8\\New Code\\Binary_To_7Segment.v":1722085621
+#CUR:"D:\\D Drive Desktop\\Miscellaneous\\Nandland Projects\\Project 8\\New Code\\State_Machine_Game.v":1722085635
+#numinternalfiles:5
+#defaultlanguage:verilog
+0			"D:\D Drive Desktop\Miscellaneous\Nandland Projects\Project 8\New Code\State_Machine_Project_Top.v" verilog
+1			"D:\D Drive Desktop\Miscellaneous\Nandland Projects\Project 8\New Code\Binary_To_7Segment.v" verilog
+2			"D:\D Drive Desktop\Miscellaneous\Nandland Projects\Project 8\New Code\State_Machine_Game.v" verilog
+#Dependency Lists(Uses List)
+0 2 1
+1 -1
+2 -1
+#Dependency Lists(Users Of)
+0 -1
+1 0
+2 0
+#Design Unit to File Association
+module work State_Machine_Game 2
+module work Binary_To_7Segment 1
+module work State_Machine_Project_Top 0
